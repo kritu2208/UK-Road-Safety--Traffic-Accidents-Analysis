@@ -60,7 +60,7 @@ The EDA covers:
 - Clustering accident-prone areas (optional with KMeans or DBSCAN)
 
 _Example Map:_  
-![Heatmap](images/accident_heatmap.png)
+![Image](https://github.com/user-attachments/assets/15707727-4d94-4604-b5c1-8c80b3a2c21f)
 
 ---
 
