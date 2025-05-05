@@ -59,7 +59,7 @@ The EDA covers:
 - Mapping high-risk zones using latitude/longitude
 - Clustering accident-prone areas (optional with KMeans or DBSCAN)
 
-_Example Map:_  
+_Example HeatMap showing hourly and weekdays severity:_  
 ![Image](https://github.com/user-attachments/assets/15707727-4d94-4604-b5c1-8c80b3a2c21f)
 
 ---
@@ -74,8 +74,9 @@ _Example Map:_
 
 _Example Charts:_
 
-![Severity Chart](images/severity_pie.png)  
-![Time Series](images/monthly_accidents_trend.png)
+![Image](https://github.com/user-attachments/assets/ce1704a9-549d-4f7e-afa5-099bf5110e49)
+
+![Image](https://github.com/user-attachments/assets/d65a352a-91da-4fb3-8faf-46cb64fec7d0)
 
 ---
 
